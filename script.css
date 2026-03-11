@@ -1,0 +1,11 @@
+console.log("PhonePe Clone Loaded");
+
+document.querySelectorAll(".service").forEach(service => {
+
+service.addEventListener("click", () => {
+
+alert("Feature coming soon!");
+
+});
+
+});
